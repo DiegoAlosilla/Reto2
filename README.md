@@ -1,7 +1,7 @@
 # Reto2
 Implementar una API REST para gestión de blogs.
 
-
+![alt text](https://github.com/DiegoAlosilla/Reto2/blob/master/Diagrama.PNG)
 
 
 Los estados de blog son: activo, inactivo.
