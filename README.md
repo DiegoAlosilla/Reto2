@@ -5,6 +5,7 @@ Implementar una API REST para gestión de blogs.
 
 
 Los estados de blog son: activo, inactivo.
+
 Los estados del post son: borrador, publicado.
 
 ## Requerimientos:
